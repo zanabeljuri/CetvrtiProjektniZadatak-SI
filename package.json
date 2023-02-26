@@ -1,0 +1,24 @@
+{
+  "name": "cetvrtiprojektnizadatak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanabeljuri/CetvrtiProjektniZadatak-SI.git"
+  },
+  "author": "Zana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanabeljuri/CetvrtiProjektniZadatak-SI/issues"
+  },
+  "homepage": "https://github.com/zanabeljuri/CetvrtiProjektniZadatak-SI#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0"
+  }
+}
